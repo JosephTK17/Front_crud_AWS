@@ -1,0 +1,63 @@
+.container {
+    margin: 0% 0% 0% 0%;
+}
+
+.containerR {
+    margin: 7% 30% 5% 30%;
+}
+
+.tablaFR {
+    /* padding: 0px 5px 0px 80px; */
+    background-color: azure;
+    border: solid 2px;
+    border-radius: 3%;
+}
+
+.form_cont {
+    margin: 0% 10% 0% 19%;
+}
+
+.tittle {
+    text-align: center;
+}
+
+.formR {
+    margin: 5px;
+}
+
+.labelR {
+    margin: 20px 0px 20px 0px;
+    display: inline-table;
+    font-size: 20px;
+}
+
+#label1 {
+    margin-right: 50px;
+}
+
+#label2 {
+    margin-right: 81px;
+}
+
+#label3 {
+    margin-right: 104px;
+}
+
+.inputR {
+    display: inline;
+}
+
+.inputInterno {
+    background-color: white;
+    padding: 3px;
+}
+
+.buttomR {
+    margin: 20px 0px 20px 140px;
+}
+
+#submitR {
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
